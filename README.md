@@ -19,6 +19,7 @@ The paper below proposes using a dynamic programming algorithm to perform stereo
 
 ## Usage
 
+
 Both files can be compiled using the shell script which can be ran with `./compile.sh`.
 
 ### To generate a disparity map for two images (same size)
